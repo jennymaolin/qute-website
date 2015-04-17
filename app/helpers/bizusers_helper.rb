@@ -1,0 +1,2 @@
+module BizusersHelper
+end
